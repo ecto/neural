@@ -4,14 +4,13 @@
   "description": "An evented feedforward neural network with backpropogation",
   "version": "0.0.0",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git://github.com/ecto/neural.git"
   },
   "main": "neural.js",
   "engines": {
     "node": "*"
   },
-  "dependencies": {
-    "colors": "*"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
