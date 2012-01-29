@@ -1,3 +1,5 @@
+# THIS IS NOT DONE YET
+
 #neural
 
 An evented feedforward neural network with backpropogation
